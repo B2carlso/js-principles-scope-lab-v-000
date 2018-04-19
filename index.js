@@ -1,1 +1,3 @@
 customerName = 'bob'
+
+upperCaseCustomerName = 'BOB'
