@@ -1,3 +1,5 @@
 customerName = 'bob'
 
-upperCaseCustomerName = 'BOB'
+function upperCaseCustomerName() {
+  customerName = customerName.toUpperCase()
+}
